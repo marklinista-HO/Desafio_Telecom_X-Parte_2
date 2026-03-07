@@ -80,8 +80,6 @@ Los modelos fueron evaluados utilizando métricas estándar:
 Se priorizaron métricas como **Recall** y **F1-score**, considerando el desbalance moderado de clases y la importancia de detectar clientes con riesgo de evasión.
 
 
-
----
 ---
 
 ## Resultados
@@ -119,21 +117,6 @@ Contratos mensuales muestran mayor tasa de abandono
 Cargos mensuales elevados se asocian con mayor churn
 
 La ausencia de servicios adicionales reduce la fidelización
-
-🧠 Interpretación para el negocio
-
-Los resultados sugieren que las estrategias de retención deberían enfocarse en:
-
-Clientes nuevos
-
-Usuarios con contratos mensuales
-
-Clientes sin servicios complementarios
-
-Clientes con altos costos mensuales
-
-Estas acciones podrían reducir significativamente la tasa de cancelación.
-
 
 
 ************************************************************
