@@ -62,7 +62,7 @@ En esta etapa se realizaron las siguientes tareas:
 
 ## **Modelado Predictivo**
 
-Se entrenaron cuatro modelos:
+Se entrenaron cinco modelos:
 - Baseline (DummyClassifier)
 - Regresión Logística
 - Árbol de Decisión
@@ -70,7 +70,6 @@ Se entrenaron cuatro modelos:
 - KNN
 
 Los modelos fueron evaluados utilizando métricas estándar:
-
 - Accuracy
 - Precision
 - Recall
