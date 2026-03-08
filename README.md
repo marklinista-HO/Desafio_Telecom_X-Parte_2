@@ -102,24 +102,6 @@ Los resultados indican que la evasión de clientes está principalmente asociada
 Por el contrario, una mayor permanencia y contratos de mayor duración actúan como factores protectores frente al churn.
 
 ---
-************************************************************
-
-
-🔍 Principales hallazgos
-
-El análisis permitió identificar factores clave asociados al churn:
-
-Clientes con menor antigüedad presentan mayor riesgo de cancelación
-
-Contratos mensuales muestran mayor tasa de abandono
-
-Cargos mensuales elevados se asocian con mayor churn
-
-La ausencia de servicios adicionales reduce la fidelización
-
-
-************************************************************
-
 
 ## Conclusiones
 
